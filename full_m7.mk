@@ -44,6 +44,6 @@ PRODUCT_MODEL := One
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=m7 \
-    BUILD_ID=JZO54K \
-    BUILD_FINGERPRINT="htc/m7_google/m7:4.4.2/KOT49H.H1/288144:user/release-keys" \
-    PRIVATE_BUILD_DESC="3.62.1700.1 CL288144 release-keys"
+    BUILD_ID=KTU84L.H4 \
+    BUILD_FINGERPRINT="htc/m7_google/m7:4.4.3/KTU84L.H4/347097:user/release-keys" \
+    PRIVATE_BUILD_DESC="4.07.1700.4 CL347097 release-keys"
